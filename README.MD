@@ -9,9 +9,9 @@
     Preview do podcast
 </p>
 
-<div align="center">
-    <audio src="output/podcast.mp3" controls title="Preview do podcast"></audio>
-</div>
+<audio controls>
+    <source src="output/podcast.mp3" type="audio/mp3">
+</audio>
 
 # Projeto Podcast Gerado por I.A.s
 
