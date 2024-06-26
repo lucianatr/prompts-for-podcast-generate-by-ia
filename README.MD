@@ -5,13 +5,12 @@
 />
 </p>
 
-<p align="center">
-    Preview do podcast
-</p>
-
+<h1>Preview do Podcast</h1>
 <audio controls>
     <source src="output/podcast.mp3" type="audio/mp3">
+    Seu navegador não suporta o elemento de áudio.
 </audio>
+
 
 # Projeto Podcast Gerado por I.A.s
 
